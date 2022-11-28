@@ -38,10 +38,6 @@ ul
 
 <p class=MsoNormal align=center style='margin-top:12.0pt;margin-right:0cm;
 margin-bottom:12.0pt;margin-left:0cm;text-align:center'><b><span lang=EN
-style='font-size:14.0pt;line-height:115%'>Assignment 3</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:12.0pt;margin-right:0cm;
-margin-bottom:12.0pt;margin-left:0cm;text-align:center'><b><span lang=EN
 style='font-size:14.0pt;line-height:115%'>2<sup>nd</sup> ADD Iteration</span></b></p>
 
 <p class=MsoNormal style='margin-top:12.0pt;margin-right:0cm;margin-bottom:
@@ -279,8 +275,10 @@ and Define Interfaces</span></b></p>
 model for the system:</span></p>
 
 <p class=MsoNormal style='margin-top:12.0pt;margin-right:0cm;margin-bottom:
-12.0pt;margin-left:0cm'><span lang=EN style='font-size:12.0pt;line-height:115%'> 
-  ################################################################################################################################################################################</span></p>
+12.0pt;margin-left:0cm'><span lang=EN style='font-size:12.0pt;line-height:115%'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:12.0pt;margin-right:0cm;margin-bottom:
+12.0pt;margin-left:0cm'><span lang=EN style='font-size:12.0pt;line-height:115%'> ![image](https://user-images.githubusercontent.com/94631276/204196990-edcb4c3c-5c9d-4ba3-b526-ed002e396e7a.png) </span></p>
 
 <p class=MsoNormal style='margin-top:12.0pt;margin-right:0cm;margin-bottom:
 12.0pt;margin-left:0cm'><span lang=EN style='font-size:12.0pt;line-height:115%'>&nbsp;</span></p>
